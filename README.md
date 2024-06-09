@@ -40,5 +40,3 @@ Contributions are welcome! If you have any improvements, bug fixes, or new algor
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for educational purposes or in your own projects.
-
-Happy learning and coding!
