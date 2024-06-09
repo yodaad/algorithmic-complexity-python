@@ -1,4 +1,4 @@
-# Algorithmic complexity is a measure of how long an algorithm will take to run. It is a function of the size of the input data.
+# Algorithmic complexity is a measure of how long an algorithm will take to run. It is a function of the size of the input data
 
 import time
 import sys
