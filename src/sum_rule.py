@@ -1,4 +1,4 @@
-# Sum rule in Big O notation is a rule that states that the sum of two functions is the maximum of the two functions.
+# Sum rule in Big O notation is a rule that states that the sum of two functions is the maximum of the two functions
 
 def f(n):
     for i in range(n):
