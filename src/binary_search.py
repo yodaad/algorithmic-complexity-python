@@ -1,7 +1,7 @@
-"""Binary Search Algorithm in Python is a searching algorithm that finds the position of a target value within a list. It compares the target value to the middle element of the list. 
+"""Binary Search Algorithm is a searching algorithm that finds the position of a target value within a list. It compares the target value to the middle element of the list. 
 If they are not equal, the half in which the target cannot lie is eliminated and the search continues on the remaining half, again taking the middle element to compare to the 
 target value, and repeating this until the target value is found. If the search ends with the remaining half being empty, the target is not in the list. 
-It's complexity is O(log n) because it divides the list in half each time it searches for the target value."""
+It's complexity is O(log n) because it divides the list in half each time it searches for the target value"""
 
 import random
 
